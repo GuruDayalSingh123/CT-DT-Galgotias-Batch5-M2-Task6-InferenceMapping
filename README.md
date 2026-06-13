@@ -50,3 +50,8 @@ An AI Study Assistant Mobile App can significantly enhance students' learning ex
 * Enhanced exam preparation
 * Increased productivity and academic success
 
+
+
+LUCID CHART SHAREABLE LINK
+
+https://lucid.app/lucidchart/f14a3f05-be0c-4156-ae12-9b5214900c97/edit?viewport_loc=1335%2C529%2C3179%2C1440%2C0_0&invitationId=inv_ab8fa7dd-633c-44a7-95f9-2c5268c22e97
